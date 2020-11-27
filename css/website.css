@@ -401,7 +401,7 @@ section .title::after{
 /* proyect section styling */
 
 .proyect .title::after{
-    content: "who whit me";
+    content: "what i done";
 }
 
 .proyect .carousel .card{
@@ -412,6 +412,11 @@ section .title::after{
     overflow: hidden;
     transition: color 0.3s ease;
 }
+
+.proyect .carousel .card a{
+    color: #fff;
+}
+
 
 .proyect .carousel .card:hover{
     background:  #F1C40F;
