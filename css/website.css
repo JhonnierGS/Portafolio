@@ -401,7 +401,7 @@ section .title::after{
 /* proyect section styling */
 
 .proyect .title::after{
-    content: "what i done";
+    content: "what i've done";
 }
 
 .proyect .carousel .card{
